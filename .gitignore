@@ -14,3 +14,8 @@ server.pid
 *.eml
 /dist/
 .cache
+testplay.iml
+testplay.ipr
+testplay.iws
+/test
+/documentation
